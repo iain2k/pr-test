@@ -2,3 +2,4 @@
 .DS_Store
 .git_askpass
 build
+connectivity-pack/.helmignore
