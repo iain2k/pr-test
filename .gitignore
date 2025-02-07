@@ -2,4 +2,4 @@
 .DS_Store
 .git_askpass
 build
-ibm-connectivity-pack/.helmignore
+connectivity-pack/.helmignore
